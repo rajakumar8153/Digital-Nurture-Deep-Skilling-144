@@ -17,4 +17,12 @@ This repository contains solutions for the hands-on exercises in the Cognizant D
 
 1. Spring Core and Maven
 2. Spring Data JPA with Spring Boot, Hibernate
+
+## Week 4
+
+1. Spring REST using Spring Boot 3
+   
+## Week 5
+
+1.Microservices with Spring Boot 3 and Spring Cloud
    
