@@ -25,4 +25,8 @@ This repository contains solutions for the hands-on exercises in the Cognizant D
 ## Week 5
 
 1.Microservices with Spring Boot 3 and Spring Cloud
+
+## Week 6
+
+1.React
    
